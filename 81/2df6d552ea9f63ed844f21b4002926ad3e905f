@@ -1,0 +1,19 @@
+src/content/docs/cloudflare-one/access-controls/policies/mfa-requirements.mdx
+  s_cf68fe375d3e61::t_c791cde8c69b10 22,81,175,181,184-188,217,222-226,269,284
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "812df6d552ea9f63ed844f21b4002926ad3e905f",
+  "prompts": {},
+  "sessions": {
+    "s_cf68fe375d3e61": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_08f166ac0ffefHgs5sNIx0IdUn",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "James Walters <jwalters@cloudflare.com>"
+    }
+  }
+}
